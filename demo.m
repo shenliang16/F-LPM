@@ -1,12 +1,12 @@
 %% Remarks
 % Written by:   Liang Shen,   05,23,2022
 % successfully tested on MATLAB R2021b
-  
-addpath('.\vlfeat_functions'); % these are vlfeat functions 
-%% Note 1: if the vlfeat functions do not work, you can do the following steps before running this demo 
+
+%% Note!!!: Please do the following steps before running this demo 
 % Step 1: please download at https://www.vlfeat.org/download/vlfeat-0.9.21-bin.tar.gz
 % Step 2: Compile vlfeat 
 % addpath(genpath('.\vlfeat-0.9.21')); 
+
 
 
 %% load image
